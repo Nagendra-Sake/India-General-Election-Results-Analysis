@@ -1,4 +1,4 @@
-# India-General-Election-Results-Analysis
+# India-General-Election-Results-Analysis 2024
 I’m thrilled to share my latest SQL project, which delves into the detailed analysis of the India General Election Results 2024. This project involved crafting and executing complex SQL queries to uncover key insights and trends from the election data. Highlights of the analysis include:
 Total Seats Analysis 🗳️:
 Breakdown of total seats available and won in each state.
